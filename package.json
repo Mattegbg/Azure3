@@ -9,8 +9,7 @@
     "name": "azure3",
     "version": "1.0.0",
     "scripts": {
-      "test": "jest",
-      "start": "node best.test.js"
+      "test": "jest"
     },
     
   "author": "",
