@@ -10,7 +10,7 @@
     "version": "1.0.0",
     "scripts": {
       "test": "jest",
-      "start": "best.test.js"
+      "start": "node best.test.js"
     },
     
   "author": "",
