@@ -5,11 +5,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
+
     "name": "azure3",
     "version": "1.0.0",
     "scripts": {
-      "test": "jest"
+      "test": "jest",
+      "start": "best.test.js"
     },
     
   "author": "",
