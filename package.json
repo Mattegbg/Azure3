@@ -5,8 +5,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
+  
+    "name": "azure3",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "jest"
+    },
+    
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  
 }
