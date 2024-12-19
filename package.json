@@ -3,21 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node best.test.js"
   },
-
-    "name": "azure3",
-    "version": "1.0.0",
-    "scripts": {
-      "test": "jest",
-      "start": "node best.test.js"
-    },
-    
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
   }
-  
 }
